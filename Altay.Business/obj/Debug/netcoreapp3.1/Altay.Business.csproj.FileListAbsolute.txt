@@ -1,0 +1,13 @@
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\bin\Debug\netcoreapp3.1\Altay.Business.deps.json
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\bin\Debug\netcoreapp3.1\Altay.Business.dll
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\bin\Debug\netcoreapp3.1\Altay.Business.pdb
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\bin\Debug\netcoreapp3.1\Altay.Entities.dll
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\bin\Debug\netcoreapp3.1\Altay.Entities.pdb
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.csproj.AssemblyReference.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.AssemblyInfoInputs.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.AssemblyInfo.cs
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.csproj.CopyComplete
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.dll
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Business\obj\Debug\netcoreapp3.1\Altay.Business.pdb

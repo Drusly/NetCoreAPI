@@ -1,0 +1,10 @@
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\bin\Debug\netcoreapp3.1\Altay.Entities.deps.json
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\bin\Debug\netcoreapp3.1\Altay.Entities.dll
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\bin\Debug\netcoreapp3.1\Altay.Entities.pdb
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.csproj.AssemblyReference.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.AssemblyInfoInputs.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.AssemblyInfo.cs
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.dll
+C:\Users\Ömer Akdağ\source\repos\Altay.WebAPI\Altay.Entities\obj\Debug\netcoreapp3.1\Altay.Entities.pdb

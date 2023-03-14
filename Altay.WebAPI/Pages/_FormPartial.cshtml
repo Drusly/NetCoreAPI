@@ -1,0 +1,20 @@
+﻿@{
+
+}
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-6">
+            @using (Html.BeginForm("CalculateClosestPrimeNumber", "Calculation", FormMethod.Post)) {
+                <div class="form-group">
+                    <label for="numberString">Sayı Girişi</label>
+                    <input type="text" class="form-control" name="numberString" placeholder="Sayı giriniz">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            }
+        </div>
+    </div>
+</div>
+
+
+

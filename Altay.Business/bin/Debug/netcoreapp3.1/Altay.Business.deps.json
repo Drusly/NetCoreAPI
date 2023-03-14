@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Altay.Business/1.0.0": {
+        "dependencies": {
+          "Altay.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Altay.Business.dll": {}
+        }
+      },
+      "Altay.Entities/1.0.0": {
+        "runtime": {
+          "Altay.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Altay.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Altay.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,26 @@
 ﻿@{
-
+    var resultObject = TempData["result"];
+    var inputText = TempData["inputText"];
+    if (resultObject != null)
+    {
+        // TempData üzerinden gelen veriyi kullanabilirsiniz
+        ViewBag.result = resultObject;
+        ViewBag.inputText = inputText;
+    }
 }
 
 <div class="container">
     <div class="row justify-content-center mt-5">
         <div class="col-md-6">
-            @using (Html.BeginForm("CalculateClosestPrimeNumber", "Calculation", FormMethod.Post)) {
+            @using (Html.BeginForm("CalculateClosestPrimeNumber", "Calculation", FormMethod.Post, new { id = "prime-number-form", name = "prime-number-form" }))
+            {
                 <div class="form-group">
-                    <label for="numberString">Sayı Girişi</label>
-                    <input type="text" class="form-control" name="numberString" placeholder="Sayı giriniz">
+                    <label>Sayı Girişi</label>
+                    <input type="text" class="form-control" name="NumberString" placeholder="Sayı giriniz" value="@ViewBag.inputText">
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             }
+            <label class="font-weight-normal">Sonuç: @ViewBag.result</label>
         </div>
     </div>
 </div>

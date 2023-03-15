@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altay.WebAPI", "Altay.WebAPI\Altay.WebAPI.csproj", "{EB9647AE-2850-40B0-98BF-896308ECABAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altay.WebAPI", "Altay.WebAPI\Altay.WebAPI.csproj", "{EB9647AE-2850-40B0-98BF-896308ECABAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altay.Entities", "Altay.Entities\Altay.Entities.csproj", "{CD7CA09A-D86F-436D-8C46-E501B8F08E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altay.Entities", "Altay.Entities\Altay.Entities.csproj", "{CD7CA09A-D86F-436D-8C46-E501B8F08E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altay.Business", "Altay.Business\Altay.Business.csproj", "{832CE1B2-B491-46F3-99C6-B86947957E68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altay.Business", "Altay.Business\Altay.Business.csproj", "{832CE1B2-B491-46F3-99C6-B86947957E68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
